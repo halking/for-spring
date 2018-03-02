@@ -8,6 +8,7 @@
         <module>for-spring-config-v2</module>
         <module>for-spring-eureka</module>
         <module>for-spring-boot</module>
+        <module>spring-cloud2</module>
     </modules>
 
     <parent>

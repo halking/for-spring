@@ -12,6 +12,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/for-spring-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud/pom.xml" />
       </set>
     </option>
   </component>
