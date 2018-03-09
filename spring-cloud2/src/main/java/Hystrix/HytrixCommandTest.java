@@ -19,6 +19,7 @@ public class HytrixCommandTest extends HystrixCommand<String>{
     }
 
     public static final void main(String[] args){
-
+        String msg = new HytrixCommandTest("huang").execute();
+        System.out.println(msg);
     }
 }
